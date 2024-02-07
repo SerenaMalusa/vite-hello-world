@@ -19,7 +19,7 @@
     </div>
 </template>
 
-<style>
+<style scoped>
     #title {
         margin-top: 0;
     }
